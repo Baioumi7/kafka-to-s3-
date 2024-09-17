@@ -16,8 +16,8 @@
 #                 "org.apache.spark:spark-sql-kafka-0-10_2.12:3.5.0,"
 #                 "org.apache.hadoop:hadoop-aws:3.3.1") \
 #         .config("spark.hadoop.fs.s3a.impl", "org.apache.hadoop.fs.s3a.S3AFileSystem") \
-#         .config("spark.hadoop.fs.s3a.access.key", "AKIAVY2PG5EWOW7OS2F6") \
-#         .config("spark.hadoop.fs.s3a.secret.key", "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") \
+#         .config("spark.hadoop.fs.s3a.access.key", "?") \
+#         .config("spark.hadoop.fs.s3a.secret.key", "?") \
 #         .config("spark.hadoop.fs.s3a.aws.credentials.provider", 
 #                 "org.apache.hadoop.fs.s3a.SimpleAWSCredentialsProvider") \
 #         .getOrCreate()
